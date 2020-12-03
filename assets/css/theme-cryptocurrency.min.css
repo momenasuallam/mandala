@@ -17423,7 +17423,7 @@ https://flickity.metafizzy.co
     margin-left: .375rem;
     transition: transform .2s ease;
     content: '->';
-    color: #fff !important;
+    color: #fff !important; 
 }
 
 .hover-arrow:hover:after {

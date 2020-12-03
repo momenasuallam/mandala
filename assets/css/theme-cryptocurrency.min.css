@@ -17422,7 +17422,8 @@ https://flickity.metafizzy.co
     display: inline-block;
     margin-left: .375rem;
     transition: transform .2s ease;
-    content: '->'
+    content: '->';
+    color: #fff !important;
 }
 
 .hover-arrow:hover:after {

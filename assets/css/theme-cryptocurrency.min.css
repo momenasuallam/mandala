@@ -5150,7 +5150,7 @@ input[type=submit].btn-block {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgba(255, 255, 255, .5)
+    color: #fff;
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
@@ -12667,7 +12667,7 @@ img {
 }
 
 .navbar {
-    border-bottom: 1px solid rgba(1, 14, 30, .08);
+    
     width: 100%
 }
 
@@ -12715,7 +12715,7 @@ img {
 }
 
 .navbar-dark {
-    border-bottom: 1px solid rgba(255, 255, 255, .08)
+
 }
 
 .navbar-dark .navbar-toggler svg path {
@@ -20858,7 +20858,7 @@ screen and (-ms-high-contrast:none) {
 
 .footer-div
 {
-    background-color: #12161B;
+    background-color: #12161b;
     padding: 25px 100px 0px 100px;
 }
 @media (max-width:600px)
@@ -20898,7 +20898,7 @@ screen and (-ms-high-contrast:none) {
 }
 .f-d-body
 {
-    color: #8C8C8C;
+    color: #838f9d;
     font-size: 14px;
     text-decoration: underline;
     padding-bottom: 0px;
@@ -20906,12 +20906,12 @@ screen and (-ms-high-contrast:none) {
     display: inline-block;
 }
 .f-d-body:hover{
-    color: #8C8C8C;
+    color: #838f9d;
     text-decoration: underline;
 }
 .f-d-body2
 {
-    color: #8C8C8C !important;
+    color: #838f9d !important;
     font-size: 14px;
     text-decoration: none !important;
     padding-bottom: 0px;
@@ -21000,11 +21000,7 @@ screen and (-ms-high-contrast:none) {
     }
 }
 
-.footer-div
-{
-    background-color: #171C23;
-    padding: 25px 100px 0px 100px;
-}
+
 @media (max-width:600px)
 {
 .footer-div

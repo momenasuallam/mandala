@@ -21078,6 +21078,11 @@ screen and (-ms-high-contrast:none) {
     padding-bottom: 60px;
    
 }
+.newlist li 
+{
+    display: block !important;
+
+}
 .about-sec h2{
     font-size: 26px;
     font-weight: 600;

@@ -20884,7 +20884,7 @@ screen and (-ms-high-contrast:none) {
 }
 .f-p
 {
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
 }
 .f-d-head
@@ -20902,8 +20902,10 @@ screen and (-ms-high-contrast:none) {
     font-size: 14px;
     text-decoration: underline;
     padding-bottom: 0px;
-    margin-bottom: 12px;
+    
     display: inline-block;
+    font-weight: 400;
+    line-height: 16px;
 }
 .f-d-body:hover{
     color: #838f9d;
@@ -20915,8 +20917,10 @@ screen and (-ms-high-contrast:none) {
     font-size: 14px;
     text-decoration: none !important;
     padding-bottom: 0px;
-    margin-bottom: 12px;
+    
     display: inline-block;
+    font-weight: 400;
+    line-height: 16px;
 }
 .f-d-body2:hover{
     color: #838f9d;
@@ -20924,14 +20928,17 @@ screen and (-ms-high-contrast:none) {
 }
 .f-d-icon
 {
-    margin-left: 20px;
     font-size: 14px;
     text-decoration: none;
     padding-bottom: 0px;
-    margin-bottom: 12px;
+    font-weight: 400;
+    line-height: 16px;
     display: inline-block;
+    color: #838f9d !important;
 }
-
+.f-d-icon span{
+    margin-left: 10px;
+}
 .header-main-d
 {
     background-color: #171C23;
@@ -21027,50 +21034,8 @@ screen and (-ms-high-contrast:none) {
     font-size: 12px;
     color: #fff;
 }
-.f-d-head
-{
-    font-size: 14px;
-    font-weight: 600;
-    color: #fff;
-    margin-top: 50px;
-    margin-bottom: 20px;
 
-}
-.f-d-body
-{
-    color: #838f9d;
-    font-size: 14px;
-    text-decoration: underline;
-    padding-bottom: 0px;
-    margin-bottom: 12px;
-    display: inline-block;
-}
-.f-d-body:hover{
-    color: #838f9d;
-    text-decoration: underline;
-}
-.f-d-body2
-{
-    color: #838f9d;
-    font-size: 14px;
-    text-decoration: none;
-    padding-bottom: 0px;
-    margin-bottom: 12px;
-    display: inline-block;
-}
-.f-d-body2:hover{
-    color: #838f9d;
-    text-decoration: none;
-}
-.f-d-icon
-{
-    margin-left: 20px;
-    font-size: 14px;
-    text-decoration: none;
-    padding-bottom: 0px;
-    margin-bottom: 12px;
-    display: inline-block;
-}
+
 .about-sec
 {
     background-color: #F7F7F7;

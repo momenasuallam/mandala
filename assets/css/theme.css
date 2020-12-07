@@ -14270,7 +14270,7 @@ article table {
 }
 .f-p
 {
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
 }
 .f-d-head
@@ -14288,8 +14288,10 @@ article table {
     font-size: 14px;
     text-decoration: underline;
     padding-bottom: 0px;
-    margin-bottom: 12px;
+    
     display: inline-block;
+    font-weight: 400;
+    line-height: 16px;
 }
 .f-d-body:hover{
     color: #838f9d;
@@ -14301,8 +14303,10 @@ article table {
     font-size: 14px;
     text-decoration: none !important;
     padding-bottom: 0px;
-    margin-bottom: 12px;
+    
     display: inline-block;
+    font-weight: 400;
+    line-height: 16px;
 }
 .f-d-body2:hover{
     color: #838f9d;
@@ -14310,10 +14314,15 @@ article table {
 }
 .f-d-icon
 {
-    margin-left: 20px;
+    
     font-size: 14px;
     text-decoration: none;
     padding-bottom: 0px;
-    margin-bottom: 12px;
+    font-weight: 400;
+    line-height: 16px;
     display: inline-block;
+    color: #838f9d !important;
+}
+.f-d-icon span{
+  margin-left: 10px;
 }

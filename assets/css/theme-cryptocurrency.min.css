@@ -21046,6 +21046,7 @@ screen and (-ms-high-contrast:none) {
 .newlist li 
 {
     display: block !important;
+    margin-top: 6px;
 
 }
 .about-sec h2{

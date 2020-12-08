@@ -14270,7 +14270,7 @@ article table {
 }
 .f-p
 {
-    font-size: 14px;
+    font-size: 16px;
     color: #fff;
 }
 .f-d-head
@@ -14285,9 +14285,9 @@ article table {
 .f-d-body
 {
     color: #838f9d;
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: underline;
-    padding-bottom: 0px;
+    padding-bottom: 8px;
     
     display: inline-block;
     font-weight: 400;
@@ -14300,9 +14300,9 @@ article table {
 .f-d-body2
 {
     color: #838f9d !important;
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: none !important;
-    padding-bottom: 0px;
+    padding-bottom: 8px;
     
     display: inline-block;
     font-weight: 400;
@@ -14315,9 +14315,9 @@ article table {
 .f-d-icon
 {
     
-    font-size: 14px;
+    font-size: 16px;
     text-decoration: none;
-    padding-bottom: 0px;
+    padding-bottom: 8px;
     font-weight: 400;
     line-height: 16px;
     display: inline-block;

@@ -21484,3 +21484,33 @@ color: #fff;
     color: #000;
     text-decoration: none;
 }
+
+.shmoondesk
+{
+    display: block;
+    padding: 15px; background-color: #000; position: fixed; bottom: 0px; z-index: 1000;
+}
+
+@media(max-width:768px)
+{
+    .shmoondesk
+    {
+        display: block;
+    }
+}
+
+.alert-cookie-policy{
+    display: block;
+    border-radius: 0;
+    position: fixed;
+    bottom:0;
+    top:auto;
+    left:0;
+    right: 0;
+    z-index: 999;
+    background-color: #000;
+  }
+  .alert-cookie-policy .alert{
+    border-radius: 0;
+  }
+  

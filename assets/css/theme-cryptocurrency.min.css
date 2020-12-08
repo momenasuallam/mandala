@@ -21514,3 +21514,31 @@ color: #fff;
     border-radius: 0;
   }
   
+
+  .cookies-btn-1:hover
+  {
+  color: #fff !important;
+  }
+  .cookies-flex
+  {
+      display: flex;
+  }
+.cookies-cross
+{
+    position: relative;
+    left: 97%;
+    padding-top: 4px;
+}
+  @media(max-width:600px)
+  {
+      .cookies-flex
+      {
+          display: block;
+      }
+      .cookies-cross
+{
+    left: 90%;
+    padding-top: 8px;
+}
+
+  }

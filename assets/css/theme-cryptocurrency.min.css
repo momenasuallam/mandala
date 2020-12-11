@@ -21543,3 +21543,24 @@ color: #fff;
 }
 
   }
+  .newcolorclass {
+      color: #12161B !important;
+  }
+  .newcolorclass:hover{
+    color: #12161B !important;
+  }
+  .modal-flex
+  {
+      display: flex;
+  }
+  @media(max-width:600px)
+  {
+      .modal-flex
+      {
+          display:block;
+          text-align: center;
+      }
+      .newcolorclass button{
+          margin-top: 10px;
+      }
+  }

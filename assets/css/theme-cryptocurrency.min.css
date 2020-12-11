@@ -21047,6 +21047,7 @@ screen and (-ms-high-contrast:none) {
 {
     display: block !important;
     margin-top: 6px;
+    font-size: 20px;
 
 }
 .about-sec h2{
